@@ -1,0 +1,69 @@
+wheel
+# packaging
+# tiktoken
+# bs4
+langchain
+# langchain-nomic
+langchain_community
+langchainhub
+langgraph
+# chromadb
+pydantic
+# panda
+# gpt4all
+transitions
+torch
+torchvision
+torchaudio
+# tensorflow
+# transformers
+ollama
+colorama
+# scikit-learn
+# matplotlib
+# tf-keras
+transformers[torch]
+# accelerate
+torch-tb-profiler
+# peft
+# datasets
+scipy
+# IPython
+coqui-tts
+faster-whisper
+# ipywidgets
+pyaudio
+webrtcvad
+tensorrt
+tensorflow[and-cuda]
+nvidia-pyindex
+nvidia-tensorrt
+# gradio
+# gradio_rangeslider
+transitions[diagrams]
+sounddevice
+flash-attn
+# gradio_log
+lm-format-enforcer
+langchain-experimental
+langchain-ollama
+bitsandbytes
+numpy
+nltk
+rospkg
+ctranslate2==4.4.0
+deepspeed
+hydra-core
+loguru
+omegaconf
+pytorch_lightning
+sacrebleu
+bitarray
+fairseq
+pyrootutils
+natsort
+tiktoken
+loralib
+gradio
+vector-quantize-pytorch
+ormsgpack

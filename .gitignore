@@ -1,0 +1,25 @@
+build/
+devel/
+logs/
+install/
+src/build*/
+src/chatbot/
+
+#VSCode settings
+.vscode/
+__pycache__/
+
+# Don't track AI models
+model/
+tts_train/
+checkpoints/
+.venv/
+fish-speech/
+whisperX/
+coqui-ai-TTS/
+src/train/
+
+
+# Don't track because API-Key
+chatbot_lm/src/speech_recognition.py
+	
