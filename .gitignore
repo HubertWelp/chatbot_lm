@@ -21,5 +21,5 @@ src/train/
 
 
 # Don't track because API-Key
-chatbot_lm/src/speech_recognition.py
+src/speech_recognition.py
 	
