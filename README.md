@@ -68,4 +68,4 @@ Das Projekt ist unter der MIT-Lizenz lizenziert. Weitere Informationen finden Si
 
 ## Kontakt
 
-Für Fragen, Anregungen oder Probleme können Sie mich unter [E-Mail](mailto:tnyy6j4i@duck.com) kontaktieren.
+Für Fragen, Anregungen oder Probleme können Sie mich unter [E-Mail](mailto:tnyy6j4i@duck.com oder mailto:hubert.welp@thga.de) kontaktieren.
